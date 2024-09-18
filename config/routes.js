@@ -6,7 +6,7 @@ const moment = require('moment');
 // Home
 
 router.post('/user')
-
+ 
 
 // router.post('/user', userController.createUser)  //listo. ya crea trabajadores
 // router.post('/admin', userController.createAdmin)
